@@ -1,0 +1,6 @@
+{
+  "name": "Aqualis",
+  "description": "An immersive digital experience for Aqualis, a luxury deep-sea sanctuary nestled 300 meters beneath the ocean.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
